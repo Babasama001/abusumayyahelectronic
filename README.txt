@@ -1,0 +1,1 @@
+Enhanced static site with gallery, wishlist, quick view, 10-image sliders, testimonials, reviews, and more. Edit data/products.json to add your items.
